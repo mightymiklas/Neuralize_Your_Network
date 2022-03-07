@@ -33,7 +33,7 @@ Before running the application first install the following dependencies:
 ---
 
 ## Usage
-To view the analysis, clone the repository using "git clone <link>" and then navigate to the file named ```credit_risk_resampling.ipynb``` notebook in the [repository directory](https://github.com/mightymiklas/neuralize_your_network)
+To view the analysis, clone the repository using "git clone <link>" and then navigate to the files named ```venture_funding_with_deep_learning.ipynb``` ```GC_venture_funding_with_deep_learning.ipynb``` and  notebook in the [repository directory](https://github.com/mightymiklas/neuralize_your_network)
 
 ---
 
